@@ -124,4 +124,6 @@ Le **Superstore Dataset** est un dataset public de ventes au détail aux États-
 
 ---
 
-*Projet réalisé dans le cadre du cursus Data Analytics — Analyse bivariée EDA avec Python*
+## 👤 Pascal Adechinan
+
+Projet réalisé dans le cadre d'un cours de **Data Analysis avec Python**.
