@@ -1,4 +1,4 @@
-# 🏪 Superstore Sales Analysis — Analyse Bivariée des Performances Commerciales
+# 🏪 Superstore Sales Analysis - Analyse Bivariée des Performances Commerciales
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-green?logo=pandas)
